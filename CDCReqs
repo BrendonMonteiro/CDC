@@ -651,7 +651,7 @@
   <body>
     <div class="container">
       <div class="logo-container">
-        <img src="https://i.imgur.com/FLudr4C.png" alt="Logo" class="logo" />
+        <img src="https://i.imgur.com/1c9u7mq.png" alt="Logo" class="logo" />
       </div>
       <button class="btn">
         <div id="selectedImage" style="display: none;">
@@ -1311,8 +1311,8 @@ function gatherFormData() {
           // Gerar o texto da atualização
          // Gerar o texto da atualização
          var texto = '[table class="rank attprof" style="border: none!important; margin: 1em; line-height: 1.4em;"]' +
-            '[tr style="border: none;"]' +
-            '[td style="border: none!important;"]' +
+            '[tr style="border: none!important"]' +
+            '[td style="border: none!important"]' +
             '[img]https://i.servimg.com/u/f24/20/44/10/89/b0920410.gif[/img]\n' +
             '[font=Poppins][color=white][size=15][b][CDC] Atualização Realizada [' + attlist_tag_value + '][/b][/size]\n' +
             '[b]Em virtude da Comissão de Desenvolvimento Cultural, foi realizada uma atualização neste horário.\n' +
