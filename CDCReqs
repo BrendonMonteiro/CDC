@@ -1250,7 +1250,7 @@ function gatherFormData() {
                   .fail(function () {
                     alert("Houve um erro! Tente novamente!");
                   });
-              }, 600);
+              }, 450);
             } else {
               alert("Preencha todos os campos!");
             }
